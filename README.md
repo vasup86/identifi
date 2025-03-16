@@ -33,9 +33,10 @@ This is a **React-based security payment verification system** built for blockch
 6. ** Navigate to Backend folder **
 7. **Install dependencies**
    `pip install -r requirements.txt`
-8. Run the Flask Server
+   `npm install`
+8. **Run the Flask Server**
    `python app.py`
-9. ** Create the MySQL Database **
+9. **Create the MySQL Database**
    `setup the database xrpl using the xrpl.sql file`
 
 ## Usage
