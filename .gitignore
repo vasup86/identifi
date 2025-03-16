@@ -1,0 +1,5 @@
+/identifi/node_modules
+
+/Backend/__pycache__
+/Backend/.venv
+/Backend/node_modules
